@@ -1,0 +1,15 @@
+{
+    "colours": {
+        "main":"00FFF0",
+        "secondary":"00AFFF",
+        "success":"00FF50",
+        "warning":"FFFF10",
+        "error":"FF1F00"
+    },
+    "scheduledEvents": {
+        "blacklistUpdate": "*/15 * * * *"
+    },
+    "url": {
+        "scamLinkBlacklist": "https://raw.githubusercontent.com/BuildBot42/discord-scam-links/main/list.txt"
+    }
+}

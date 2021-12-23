@@ -1,0 +1,27 @@
+{
+  "name": "discord-scam-blocker",
+  "version": "1.0.0",
+  "description": "A discord bot that blocks nitro phishing scam links with automatic blacklist updating.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MCUniversity/discord-scam-blocker.git"
+  },
+  "author": "MCUniversity",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/MCUniversity/discord-scam-blocker/issues"
+  },
+  "homepage": "https://github.com/MCUniversity/discord-scam-blocker#readme",
+  "dependencies": {
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "discord-api-types": "^0.25.2",
+    "discord.js": "^13.3.1",
+    "dotenv": "^10.0.0",
+    "mongodb": "^4.2.2",
+    "node-schedule": "^2.1.0"
+  }
+}
