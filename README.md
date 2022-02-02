@@ -13,6 +13,10 @@
 
 ### 🏠 [Homepage](https://github.com/MCUniversity/discord-scam-blocker#readme)
 
+## Hosted bot
+
+Can't host the bot on your own? [Here is an invite link](https://discord.com/api/oauth2/authorize?client_id=612008367203942451&permissions=137976212544&scope=bot%20applications.commands) for an instance of the bot I am hosting myself. (This bot is limited to a maximum of 100 servers due to it being non-verified.)
+
 ## Install
 
 ```sh
